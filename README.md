@@ -104,7 +104,7 @@ fetch("notarealwebsite.com/dogs/25", {
 ```
 
 ```
-
+It would delete dog with ID=25. It would return a PROMISE.
 ```
 
 ## Datasets
